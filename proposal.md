@@ -48,9 +48,9 @@ He holds a PhD in Computer Science from the University of Edinburgh,
 and presently works for the Mozilla Foundation.
 
 *Fernando Perez*
-is a neuroscientist at the University of California Berkeley,
-and one of the creators of IPython and the IPython Notebook.
-He holds a PhD in particle physics from the University of Colorado.
+is a research scientist at the University of California, Berkeley;
+he started the IPython project in 2001 and continues to lead its
+development.  He holds a PhD in physics from the University of Colorado.
 
 *Peter Norvig*
 is Director of Research at Google Inc.
@@ -64,8 +64,8 @@ and will share their experiences and materials.
 
 **Materials Provided:**
 Each participant will be expected to download and install
-one of the "batteries included" scientific Python installations produced by Enthought and Continuum
-(both of which are open source).
+one of the "batteries included" scientific Python distributions produced by Enthought and Continuum Analytics
+(both of which are available free of charge).
 During the workshop,
 we will help participants install some or all of these plugins
 (so that they have hands-on experience with the setup and configuration process):
